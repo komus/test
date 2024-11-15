@@ -1,2 +1,2 @@
 gradio
-keras_hub
+keras_hub==0.16.1
