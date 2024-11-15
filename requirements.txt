@@ -1,2 +1,5 @@
-keras_hub==0.17.0
+accelerate 
+sentencepiece 
+transformers
+keras_hub
 huggingface_hub==0.25.2
