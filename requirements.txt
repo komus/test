@@ -1,1 +1,2 @@
 gradio
+keras_hub
